@@ -1,9 +1,3 @@
-%% Gauss-Jordan Elimination Algorithm:
-%% Mahmoud Halwani u23100372
-%% ABDELRAHMAN AMJED M MANSOUR u23101444
-%% HASHEM MOHAMMAD FATEHI ALSHAR u23101334
-%% Anas Feras Abed Alrajabi u21104982
-%% GOLAM MOHAMMAD MOKBUL HOSSAIN DASTAGIR u23102430
 
 clc;
 clear;
@@ -52,3 +46,4 @@ disp('Current Results using Gauss-Jordan Elimination Method (in mA):');
 for i = 1:n
     fprintf('i%d = %.6f mA\n', i, x(i));
 end
+
