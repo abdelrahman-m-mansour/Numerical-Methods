@@ -1,9 +1,3 @@
-% Mahmoud Halwani u23100372
-% ABDELRAHMAN AMJED M MANSOUR u23101444
-% HASHEM MOHAMMAD FATEHI ALSHAR u23101334
-% GOLAM MOHAMMAD MOKBUL HOSSAIN DASTAGIR u23102430
-% Anas Feras Abed Alrajabi u21104982
-
 
 clc;
 clear;
@@ -54,3 +48,4 @@ if c < 0
 else
     fprintf('No sign change between f(x0) and f(x1), no root in this range.\n');
 end
+
