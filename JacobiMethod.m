@@ -1,9 +1,4 @@
-%% Jacobi Method
-%% Mahmoud Halwani u23100372
-%% ABDELRAHMAN AMJED M MANSOUR u23101444
-%% HASHEM MOHAMMAD FATEHI ALSHAR u23101334
-%% Anas Feras Abed Alrajabi u21104982
-%% GOLAM MOHAMMAD MOKBUL HOSSAIN DASTAGIR u23102430
+
 clc;
 clear;
 
@@ -90,3 +85,4 @@ disp('Significant digits for each variable:');
 for i = 1:n
     fprintf('i%d: d = %d\n', i, d(i));
 end
+
